@@ -2,4 +2,7 @@ venv
 data
 .env
 .idea
-
+llama.cpp
+results
+data.zip
+data
